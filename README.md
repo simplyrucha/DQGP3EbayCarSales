@@ -10,4 +10,8 @@ are also subjective to skills and experience gained.
 
 --------------------------------------------------------------------------------------------------------------------------
 ## Explore and Analyse used car sales on Ebay Kleinanzeigen
-This project was created as part of utilizing Pandas and Numpy Liabraries. This project demonstrates basic understanding of dataframes, series, application of methods/ functions or dataframe.series, slicing of dataframes, mapping dictionaries to aid in replacement of values and other introductory concepts.
+
+This project was created as part of utilizing Pandas and Numpy Liabraries. This project demonstrates basic understanding of dataframes, series, application of methods/ functions on dataframe.series, slicing of dataframes and/or series, mapping dictionaries to aid in replacement of values and other Pandas related concepts.
+
+--------------------------------------------------------------------------------------------------------------------------
+## 
